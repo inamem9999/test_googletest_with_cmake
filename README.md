@@ -1,0 +1,2 @@
+# test_googletest_with_cmake
+GoogleTestとcmakeの調査用
